@@ -79,5 +79,5 @@ An intelligent attendance system utilizing facial recognition and liveness detec
 
 For any queries or contributions, contact [Ashish Ravipati](mailto:ashishravipati6@gmail.com).
 
-```
+```reach out to me at linkedin https://www.linkedin.com/in/ashish-ravipati-b4806b32b/
 ```
